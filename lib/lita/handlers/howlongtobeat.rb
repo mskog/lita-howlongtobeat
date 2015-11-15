@@ -14,7 +14,7 @@ module Lita
           response.reply("No results found for #{term}") && return unless title
           story = document.css(".search_list_tidbit.center.time_100")[0].text
           response.reply("It will take about #{story}to beat the main story of #{title.attr('title')}")
-          response.reply("#{SITE_URL}/#{title.attr('href')}")
+          response.reply("Source: #{SITE_URL}/#{title.attr('href')}")
         end
 
         Lita.register_handler(self)

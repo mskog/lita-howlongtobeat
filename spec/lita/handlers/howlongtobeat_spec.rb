@@ -18,7 +18,7 @@ describe Lita::Handlers::Howlongtobeat, lita_handler: true do
         send_command "howlongtobeat witcher 3"
         expect(replies.count).to eq 2
         expect(replies[0]).to match 'It will take about 43½ Hours to beat the main story of The Witcher 3: Wild Hunt'
-        expect(replies[1]).to match "#{described_class::SITE_URL}/game.php?id=10270"
+        expect(replies[1]).to match "Source: #{described_class::SITE_URL}/game.php?id=10270"
       end
     end
 
