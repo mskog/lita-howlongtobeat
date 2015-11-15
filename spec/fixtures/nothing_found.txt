@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Sun, 15 Nov 2015 13:14:29 GMT
+Content-Type: text/html; charset=windows-1252
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: hl2b_save=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=howlongtobeat.com; httponly
+Vary: Accept-Encoding
+Set-Cookie: _asomcnc=1; Max-Age=900; Path=/
+X-NoCache: 1
+Server: cloudflare-nginx
+CF-RAY: 245b3829368c3ccb-CPH
+Content-Encoding: gzip
+
+<li class='global_padding back_white shadow_box'>No results for <strong>fasdifjasiofjsafij</strong> in <u>games</u>.</li>

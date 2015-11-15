@@ -1,0 +1,57 @@
+HTTP/1.1 200 OK
+Date: Sun, 15 Nov 2015 12:54:53 GMT
+Content-Type: text/html; charset=windows-1252
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: hl2b_save=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=howlongtobeat.com; httponly
+Vary: Accept-Encoding
+Set-Cookie: _asomcnc=1; Max-Age=900; Path=/
+X-NoCache: 1
+Server: cloudflare-nginx
+CF-RAY: 245b1b7844be3d31-CPH
+Content-Encoding: gzip
+
+<h3 class='head_padding shadow_box back_blue'>We Found 2 Games for "witcher 3"</h3> <li class="back_white shadow_box"> <div class="search_list_image">
+<a title="The Witcher 3: Wild Hunt" href="game.php?id=10270">
+<img src="gameimages/256px-TW3_Wild_Hunt_logo.png"/>
+</a>
+</div> <div class="search_list_details"> <h3><a class="text_blue" title="The Witcher 3: Wild Hunt" href="game.php?id=10270">The Witcher 3: Wild Hunt</a></h3> <div class="search_list_details_block"> <div>
+<div class="search_list_tidbit">Main Story</div>
+<div class="search_list_tidbit center time_100">43&#189; Hours </div>
+</div>
+<div>
+<div class="search_list_tidbit">Main + Extra</div>
+<div class="search_list_tidbit center time_100">94&#189; Hours </div>
+</div>
+<div>
+<div class="search_list_tidbit">Completionist</div>
+<div class="search_list_tidbit center time_100">165&#189; Hours </div>
+</div>
+<div>
+<div class="search_list_tidbit">Combined</div>
+<div class="search_list_tidbit center time_100">97 Hours </div>
+</div> </div>
+</div> <div class="clear"></div> </li> <li class="back_white shadow_box"> <div class="search_list_image">
+<a title="The Witcher 3: Wild Hunt - Hearts of Stone" href="game.php?id=30003">
+<img src="gameimages/The-Witcher-3-Wild-Hunt-Hearts-of-Stone-Expansion-Teaser.jpg"/>
+</a>
+</div> <div class="search_list_details"> <h3><a class="text_blue" title="The Witcher 3: Wild Hunt - Hearts of Stone" href="game.php?id=30003">The Witcher 3: Wild Hunt - Hearts of Stone</a></h3> <div class="search_list_details_block"> <div>
+<div class="search_list_tidbit">Main Story</div>
+<div class="search_list_tidbit center time_60">10 Hours </div>
+</div>
+<div>
+<div class="search_list_tidbit">Main + Extra</div>
+<div class="search_list_tidbit center time_80">14&#189; Hours </div>
+</div>
+<div>
+<div class="search_list_tidbit">Completionist</div>
+<div class="search_list_tidbit center time_50">17&#189; Hours </div>
+</div>
+<div>
+<div class="search_list_tidbit">Combined</div>
+<div class="search_list_tidbit center time_100">14 Hours </div>
+</div> </div>
+</div> <div class="clear"></div> </li> 
