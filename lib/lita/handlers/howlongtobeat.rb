@@ -12,7 +12,7 @@ module Lita
           document = Nokogiri::HTML(search.body)
           title = document.css('a')[0]
           response.reply("No results found for #{term}") && return unless title
-          story = document.css(".search_list_tidbit.center.time_100")[0].text
+          story = document.css(".search_list_tidbit.center")[0].text
           response.reply("It will take about #{story}to beat the main story of #{title.attr('title')}")
           response.reply("Source: #{SITE_URL}/#{title.attr('href')}")
         end
