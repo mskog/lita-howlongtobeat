@@ -2,3 +2,7 @@ en:
   lita:
     handlers:
       howlongtobeat:
+        help:
+          howlongtobeat_key: hltp NAME
+          howlongtobeat_value: "Look up the Main Story length of game NAME"
+

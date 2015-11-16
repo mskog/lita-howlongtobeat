@@ -4,7 +4,7 @@ module Lita
         SITE_URL = "http://howlongtobeat.com"
         SEARCH_URL = "http://howlongtobeat.com/search_main.php?page=1"
 
-        route(/^(?:hltp|howlongtobeat)\s+(.*)/i, :howlongtobeat, command: true)
+        route(/^(?:hltp|howlongtobeat)\s+(.*)/i, :howlongtobeat, command: true, help: { t("help.howlongtobeat_key") => t("help.howlongtobeat_value")})
 
         def howlongtobeat(response)
           term = response.matches[0][0]
