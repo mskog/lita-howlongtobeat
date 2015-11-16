@@ -1,6 +1,6 @@
 # lita-howlongtobeat
 
-TODO: Add a description of the plugin.
+**lita-howlongtobeat** is a [Lita](https://github.com/litaio/lita) handler that returns the average length of the main story for a video game.
 
 ## Installation
 
@@ -12,4 +12,10 @@ gem "lita-howlongtobeat"
 
 ## Usage
 
-TODO: Describe the plugin's features and how to use them.
+To get the length of the Main Story of a game:
+
+```
+<me> lita: hltp Witcher 3
+<lita> Source: http://howlongtobeat.com/game.php?id=10270
+<lita> It will take about 43½ Hours to beat the main story of The Witcher 3: Wild Hunt
+```
