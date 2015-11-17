@@ -1,5 +1,7 @@
 # lita-howlongtobeat
 
+[![Circle CI](https://circleci.com/gh/mskog/lita-howlongtobeat.svg?style=svg)](https://circleci.com/gh/mskog/lita-howlongtobeat)
+
 **lita-howlongtobeat** is a [Lita](https://github.com/litaio/lita) handler that returns the average length of the main story for a video game.
 
 ## Installation
