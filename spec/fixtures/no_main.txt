@@ -1,0 +1,37 @@
+HTTP/1.1 200 OK
+Date: Tue, 17 Nov 2015 17:13:46 GMT
+Content-Type: text/html; charset=windows-1252
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: hl2b_save=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=howlongtobeat.com; httponly
+Vary: Accept-Encoding
+Set-Cookie: _asomcnc=1; Max-Age=900; Path=/
+X-NoCache: 1
+Server: cloudflare-nginx
+CF-RAY: 246d116e7df23ce3-CPH
+Content-Encoding: gzip
+
+<h3 class='head_padding shadow_box back_blue'>We Found 1 Games for "legacy of the void"</h3> <li class="back_white shadow_box"> <div class="search_list_image">
+<a title="StarCraft II: Legacy of the Void" href="game.php?id=9154">
+<img src="gameimages/StarCraft_II_Legacy_of_the_Void_logo.png"/>
+</a>
+</div> <div class="search_list_details"> <h3><a class="text_blue" title="StarCraft II: Legacy of the Void" href="game.php?id=9154">StarCraft II: Legacy of the Void</a></h3> <div class="search_list_details_block"> <div>
+<div class="search_list_tidbit">Main Story</div>
+<div class="search_list_tidbit center time_00">--</div>
+</div>
+<div>
+<div class="search_list_tidbit">Main + Extra</div>
+<div class="search_list_tidbit center time_40">15&#189; Hours </div>
+</div>
+<div>
+<div class="search_list_tidbit">Completionist</div>
+<div class="search_list_tidbit center time_00">--</div>
+</div>
+<div>
+<div class="search_list_tidbit">Combined</div>
+<div class="search_list_tidbit center time_40">15&#189; Hours </div>
+</div> </div>
+</div> <div class="clear"></div> </li> 
