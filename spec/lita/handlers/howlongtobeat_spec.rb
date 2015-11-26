@@ -3,6 +3,7 @@ require "spec_helper"
 describe Lita::Handlers::Howlongtobeat, lita_handler: true do
   it { is_expected.to route_command("howlongtobeat witcher 3").to(:howlongtobeat) }
   it { is_expected.to route_command("hltp witcher 3").to(:howlongtobeat) }
+  it { is_expected.to route_command("hltb witcher 3").to(:howlongtobeat) }
 
   describe "#howlongtobeat" do
     before :each do

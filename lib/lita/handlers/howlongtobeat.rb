@@ -2,7 +2,7 @@ module Lita
   module Handlers
     class Howlongtobeat < Handler
 
-        route(/^(?:hltp|howlongtobeat)\s+(.*)/i, :howlongtobeat, command: true, help: { t("help.howlongtobeat_key") => t("help.howlongtobeat_value")})
+        route(/^(?:hltp|hltb|howlongtobeat)\s+(.*)/i, :howlongtobeat, command: true, help: { t("help.howlongtobeat_key") => t("help.howlongtobeat_value")})
 
         def howlongtobeat(response)
           HowlongtobeatSearch.new(response.matches[0][0], http).print_result(response)
