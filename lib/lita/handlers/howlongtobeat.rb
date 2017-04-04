@@ -9,8 +9,8 @@ module Lita
         end
 
         class HowlongtobeatSearch
-          SEARCH_URL = "http://howlongtobeat.com/search_main.php?page=1"
-          SITE_URL = "http://howlongtobeat.com"
+          SEARCH_URL = "https://howlongtobeat.com/search_main.php?page=1"
+          SITE_URL = "https://howlongtobeat.com"
 
           def initialize(term, client = Faraday)
             @term = term
