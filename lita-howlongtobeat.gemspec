@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-howlongtobeat"
-  spec.version       = "0.3.0"
+  spec.version       = "0.4.0"
   spec.authors       = ["Magnus Skog"]
   spec.email         = ["magnus.m.skog@gmail.com"]
   spec.description   = "A Lita handler that returns the average number of hours required to beat a game from http://howlongtobeat.com"
